@@ -128,4 +128,15 @@ img {
 body {
   margin: 40px;
 }
+.padding {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.img {
+    display: block;
+    margin: auto;
+    width: 40%;
+    padding-left: 200px;
+}
 
