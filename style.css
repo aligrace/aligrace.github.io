@@ -139,16 +139,17 @@ body {
 }
 
 .img {
+	border-width: 5px;
     display: block;
     margin: auto;
     width: 40%;
     padding-left: 200px;
 }
 .photogimg {
+	border-width: 5px;
 	display: block;
     margin: auto;
     width: 40%;
     padding-left: 100px;
     text-align: center;
 }
-
