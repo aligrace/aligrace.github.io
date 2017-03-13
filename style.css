@@ -28,6 +28,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+@media screen and (max-width: 320px) {
+Body {
+	Font-size: 100%
+		}
+	}
 body {
 	line-height: 1;
 }
@@ -139,10 +144,11 @@ body {
     width: 40%;
     padding-left: 200px;
 }
-.womenimg {
+.photogimg {
 	display: block;
     margin: auto;
     width: 40%;
     padding-left: 100px;
+    text-align: center;
 }
 
